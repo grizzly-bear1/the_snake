@@ -31,6 +31,7 @@ class GameObject:
         self.body_color = None
 
     def draw(self):
+        """Отрисовывает объект на экране."""
         pass
 
 
