@@ -48,7 +48,7 @@ class GameObject:
     def draw(self, surface) -> None:
         """Отрисовывает объект на переданной поверхности."""
         raise NotImplementedError(
-            "Метод draw должен быть реализован в дочернем классе"
+            'Метод draw должен быть реализован в дочернем классе'
         )
 
 
